@@ -21,3 +21,4 @@ Werkzeug==2.2.2
 marshmallow-sqlalchemy
 mapproxy~=1.12
 pycryptodome
+marshmallow>=3.26.2 # not directly required, pinned by Snyk to avoid a vulnerability
